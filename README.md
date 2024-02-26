@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://theengineercenter.blogspot.com/](https://theengineercenter.blogspot.com/)
 
-- 💬 Ask me about **C++, Frontend Devlopement,Java-Script,MySql,Java**
+- 💬 Ask me about **C++, Frontend Devlopement, Java-Script, MySql, Java**
 
 - 📫 How to reach me **[Visite MY Portfilo](https://vinayambatkar.github.io/VinayAmbatkar_Portfolio)**
 
