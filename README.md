@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++, Frontend Devlopement,Java-Script,MySql,Java**
 
-- 📫 How to reach me **Visite MY Portfilo [](https://vinayambatkar.github.io/VinayAmbatkar_Portfolio)**
+- 📫 How to reach me **[Visite MY Portfilo](https://vinayambatkar.github.io/VinayAmbatkar_Portfolio)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
