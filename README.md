@@ -12,13 +12,13 @@
 
 - I’m looking for job or Internship In **Startup or MNC| Product Base Service Base Companies**
 
-- 👨‍💻 My Portfolio : [https://vinayambatkar.github.io/VinayAmbatkar_Portfolio](https://vinayambatkar.github.io/VinayAmbatkar_Portfolio)
+- 👨‍💻 My Portfolio : [Visit My Portfolio](https://vinayambatkar.github.io/VinayAmbatkar_Portfolio)
 
 - My Top Skills **react ,GSAP ,Frontend Developer**
 
 - 📫 How to reach me **vinayambatkar57@gmail.com**
 
-- 📄 Know about my experiences My Resume : [https://drive.google.com/file/d/19nXdVRU__z-7cDbfi_l0uLjBQdV5Pu5u/view?usp=sharing](https://drive.google.com/file/d/19nXdVRU__z-7cDbfi_l0uLjBQdV5Pu5u/view?usp=sharing)
+- 📄 Know about my experiences My Resume : [My Resume](https://drive.google.com/file/d/19nXdVRU__z-7cDbfi_l0uLjBQdV5Pu5u/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
