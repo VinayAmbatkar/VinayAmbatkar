@@ -1,33 +1,126 @@
-<h1 align="center">Hi 👋 I'm Vinay Sanjay Ambatkar</h1>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<h3 align="center">Transforming Ideas into Scalable Software|Bringing Visual Design|Building Robust Applications from Frontend to Backends with Interactive Web Elements|</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=535&lines=Hi+%F0%9F%91%8B+I'm+Vinay+Ambatkar;Full+Stack+Developer;Frontend+Specialist" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayambatkar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayambatkar" /> </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
+</div>
 
-- 🔭 I’m currently working on [Avalanche High-Tech Enterprise](https://www.linkedin.com/company/avalanche-high-tech-enterprise/)
-
-- 🌱 I’m currently learning **MERN Stack|Next.js |AI/ML**
-
-- ✅ I’m looking to collaborate on **Open Source and Freelance Projects**
-
-- I’m looking for job or Internship In **Startup or MNC| Product Base Service Base Companies**
-
-- 👨‍💻 My Portfolio : [Visit My Portfolio](https://vinayambatkar.github.io/VinayAmbatkar_Portfolio)
-
-- My Top Skills **react ,GSAP ,Frontend Developer**
-
-- 📫 How to reach me **vinayambatkar57@gmail.com**
-
-- 📄 Know about my experiences My Resume : [My Resume](https://drive.google.com/file/d/19nXdVRU__z-7cDbfi_l0uLjBQdV5Pu5u/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinay-ambatkar-a55308206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-ambatkar-a55308206" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vinay552002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinay552002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vinayambatkar57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayambatkar57" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/vinayambatkar57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vinayambatkar57" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vinayambatkar57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayambatkar57" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinayambatkar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vinayambatkar?label=Followers&style=for-the-badge" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+> Transforming Ideas into Scalable Software | Building Robust Applications from Frontend to Backend
+
+I'm a Full Stack Developer specializing in frontend development, with expertise in building scalable web applications. Currently working at Avalanche High-Tech Enterprise, I focus on creating robust applications with interactive web elements.
+
+- 🔭 Currently working at [Avalanche High-Tech Enterprise](https://www.linkedin.com/company/avalanche-high-tech-enterprise/)
+- 🌱 Expanding knowledge in **MERN Stack, Next.js, and AI/ML**
+- 💼 Open to collaboration on **Open Source and Freelance Projects**
+- 🎯 Seeking opportunities in **Startups or MNCs | Product/Service Based Companies**
+- 📫 Reach me at: **vinayambatkar57@gmail.com**
+
+<div align="center">
+  <a href="https://vinayambatkar.github.io/VinayAmbatkar_Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/19nXdVRU__z-7cDbfi_l0uLjBQdV5Pu5u/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</div>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vinay-ambatkar-a55308206">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vinayambatkar57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+### 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://www.leetcode.com/vinayambatkar57">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/vinay552002">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/vinayambatkar57">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+  </a>
+</p>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,redux" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+</details>
+
+<details open>
+<summary><b>Languages & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,aws,git,postman,vscode" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI/ML & Data</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+</p>
+</details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayambatkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayambatkar&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayambatkar&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayambatkar&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinayambatkar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
