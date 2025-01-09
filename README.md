@@ -12,7 +12,7 @@
 
 - I’m looking for job or Internship In **Startup or MNC| Product Base Service Base Companies**
 
-- 👨‍💻 My Portfolio : [Visit My Portfolio](https://vinayambatkar.github.io/VinayAmbatkar_Portfolio)
+- 👨‍💻 My Portfolio : [Visit My Portfolio](https://vinayambatkar30.vercel.app/)
 
 - My Top Skills **react ,GSAP ,Frontend Developer**
 
